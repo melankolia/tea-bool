@@ -1,0 +1,19 @@
+{
+  "name": "tea-bool",
+  "version": "1.0.0",
+  "description": "This package to validate an value is boolean or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nugroho",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/melankolia/tea-bool.git"
+  },
+  "homepage": "https://github.com/melankolia/tea-bool#readme",
+  "dependencies": {
+    "tea-helper": "^1.2.1"
+  }
+}
