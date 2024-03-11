@@ -16,6 +16,7 @@
   "dependencies": {
     "resso": "^0.17.0",
     "tea-helper": "^1.2.1",
+    "tea-helper-leap-year": "^1.0.1",
     "tea-zero-layer-2": "^1.0.0"
   }
 }
