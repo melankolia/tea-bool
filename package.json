@@ -1,6 +1,6 @@
 {
   "name": "tea-bool",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "This package to validate an value is boolean or not",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,8 @@
     "resso": "^0.17.0",
     "tea-helper": "^1.2.1",
     "tea-helper-leap-year": "^1.0.1",
+    "tea-hoka-fn": "^1.1.0",
+    "tea-kodachi-fn": "^1.0.0",
     "tea-zero-layer-2": "^1.0.0"
   }
 }
